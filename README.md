@@ -1,1 +1,3 @@
-# mq_repo
+# Message queue
+
+messing around with AMQP 
